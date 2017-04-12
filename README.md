@@ -18,9 +18,9 @@ Requires _Windows Subsystem for Linux_ to be installed and _Bash on Ubuntu on Wi
 3. [node][node]
 4. [npm][npm]
 
-Request other Bash commands by [creating a new Issue](https://github.com/leighmcculloch/windows-10-bash-aliases/issues/new).
+Request other Bash commands by [creating a new Issue](https://github.com/panic175/windows-10-bash-aliases/issues/new).
 
-[ssh]: https://raw.githubusercontent.com/leighmcculloch/windows-10-bash-aliases/master/ssh.bat
-[git]: https://raw.githubusercontent.com/leighmcculloch/windows-10-bash-aliases/master/git.bat
-[node]: https://raw.githubusercontent.com/leighmcculloch/windows-10-bash-aliases/master/node.bat
-[npm]: https://raw.githubusercontent.com/leighmcculloch/windows-10-bash-aliases/master/npm.bat
+[ssh]: https://raw.githubusercontent.com/panic175/windows-10-bash-aliases/master/ssh.bat
+[git]: https://raw.githubusercontent.com/panic175/windows-10-bash-aliases/master/git.bat
+[node]: https://raw.githubusercontent.com/panic175/windows-10-bash-aliases/master/node.bat
+[npm]: https://raw.githubusercontent.com/panic175/windows-10-bash-aliases/master/npm.bat
